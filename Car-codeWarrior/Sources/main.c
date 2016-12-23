@@ -12,8 +12,7 @@
 
 //#define MAX_SPEED	32
 static unsigned int testNum=0;
-fdfg
-ddf
+
 int ServoDir=1; //1  open Servos  ,-1 close Servos
   //				3-calibrate ir sensor
 int caliCounter=-1;
